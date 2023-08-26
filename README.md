@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋, I'm Mustafa</h2>
 <h4 align="left">I would like to be Full-Stack Web developer</h4>
 
-- 🌱 I’m currently learning **Javascript and JavaFX**
+- 🌱 I’m currently learning **Javascript and Java**
 
 - 📫 How to reach me **mustafacoban181@gmail.com**
 
